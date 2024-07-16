@@ -8,7 +8,7 @@ body {
     min-height: 100vh;
     font-family: 'Quicksand', sans-serif;
     text-align: center;
-    overflow-y: hidden; /* Prevent vertical scrolling */
+    overflow-y: auto; /* Allow vertical scrolling */
     overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 body::before {
@@ -198,7 +198,7 @@ a {
     }
 
     li {
-        width: 20vw;  /* Larger for mobile */
+        width: 40vw;  /* Larger for mobile */
         height: 5vh;
     }
 
@@ -221,7 +221,7 @@ a {
     }
 
     li {
-        width: 25vw;  /* Larger for small mobile devices */
+        width: 60vw;  /* Larger for small mobile devices */
         height: 6vh;
     }
 
@@ -229,6 +229,7 @@ a {
         font-size: 4vw;  /* Slightly larger font size for better readability */
     }
 }
+
 
 
 
