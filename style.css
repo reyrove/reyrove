@@ -1,0 +1,232 @@
+/* General Styles */
+body {
+    position: relative;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    overflow-y: auto; /* Allow vertical scrolling */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('images/image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    filter: blur(7px); /* Adjust the blur level as needed */
+    z-index: -1;
+}
+
+.center-text {
+    color: azure;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    z-index: 1;
+    text-shadow: 
+    0 0 5px #fff,
+    0 0 10px #0d0101,
+    0 0 20px #b7e474,
+    0 0 30px #f8610a,
+    0 0 40px #0af244,
+    0 0 50px #a8e855,
+    0 0 60px #ccff00,
+    0 0 70px #35da14;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+    padding: 20px;
+}
+.circle-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    z-index: 1;
+    animation: rotate 4s linear 1; /* Rotate once over 4 seconds */
+}
+
+@keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.circle-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.bottom-text {
+    color: azure;
+    font-size: 30px;
+    z-index: 1;
+    text-shadow: 
+    0 0 5px #fff,
+    0 0 6px #1c0808,
+    0 0 10px #b7e474,
+    0 0 30px #f8610a,
+    0 0 40px #0af244,
+    0 0 40px #a8e855,
+    0 0 40px #ccff00,
+    0 0 50px #35da14;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    z-index: 1;
+}
+li {
+    width: 180px;
+    height: 50px;
+    margin: 10px 0;
+    background-color: #e3e6e9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #c3a9a9;
+    border-radius: 15px;
+    position: relative;
+    transform: translateX(-100%); /* Start off-screen to the left */
+    animation: moveRight 1s forwards;
+}
+
+li:nth-child(1) { animation-delay: 0.5s; }
+li:nth-child(2) { animation-delay: 1s; }
+li:nth-child(3) { animation-delay: 1.5s; }
+li:nth-child(4) { animation-delay: 2s; }
+li:nth-child(5) { animation-delay: 2.5s; }
+li:nth-child(6) { animation-delay: 3s; }
+
+@keyframes moveRight {
+    to {
+       opacity: 1;
+       transform: translateX(0);
+    }
+}
+
+a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    border-radius: 15px;
+}
+.title {
+    font-size: 15px;
+    color: #0d1401;
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.icon {
+    font-size: 30px;  /* Adjusted icon size */
+    margin-right: 10px;
+    transition: color 0.3s;
+}
+
+.fa-code {
+    color: #01090f; /* Blue */
+}
+.fa-youtube {
+    color: #ff0000; /* Red */
+}
+.fa-github {
+    color: #333; /* Dark Gray */
+}
+.fa-paint-brush {
+    color: #08df28; /* Purple */
+}
+.fa-twitter {
+    color: #1da1f2; /* Light Blue */
+}
+.fa-linkedin {
+    color: #0077b5; /* LinkedIn Blue */
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+    width: 12px; /* Width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #fafbfa; /* Color of the scrollbar track */
+    border-radius: 6px; /* Rounded corners for the track */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #b2e79e; /* Color of the scrollbar thumb */
+    border-radius: 6px; /* Rounded corners for the thumb */
+    border: 3px solid #cee0e7; /* Padding around the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #aac226; /* Color when hovering over the scrollbar thumb */
+}
+
+/* Responsive Text Sizes */
+@media (max-width: 768px) {
+    .center-text {
+        font-size: 30px;
+    }
+
+    .bottom-text {
+        font-size: 20px;
+    }
+
+    .icon {
+        font-size: 25px;
+    }
+
+    li {
+        width: 150px;
+        height: 40px;
+    }
+
+    .title {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .center-text {
+        font-size: 24px;
+    }
+
+    .bottom-text {
+        font-size: 18px;
+    }
+
+    .icon {
+        font-size: 20px;
+    }
+
+    li {
+        width: 120px;
+        height: 35px;
+    }
+
+    .title {
+        font-size: 10px;
+    }
+}
+
