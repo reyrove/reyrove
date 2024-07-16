@@ -198,8 +198,8 @@ a {
     }
 
     li {
-        width: 180px;  /* Adjusted for larger mobile boxes */
-        height: 50px;
+        width: 220px;  /* Larger for mobile */
+        height: 60px;
     }
 
     .title {
@@ -221,13 +221,14 @@ a {
     }
 
     li {
-        width: 180px;  /* Adjusted for larger mobile boxes */
-        height: 50px;
+        width: 250px;  /* Larger for small mobile devices */
+        height: 70px;
     }
 
     .title {
-        font-size: 14px;  /* Slightly larger font size for better readability */
+        font-size: 16px;  /* Slightly larger font size for better readability */
     }
 }
+
 
 
