@@ -198,35 +198,36 @@ a {
     }
 
     li {
-        width: 150px;
-        height: 40px;
+        width: 180px;  /* Adjusted for larger mobile boxes */
+        height: 50px;
     }
 
     .title {
-        font-size: 12px;
+        font-size: 14px;  /* Slightly larger font size for better readability */
     }
 }
 
 @media (max-width: 480px) {
     .center-text {
-        font-size: 24px;
+        font-size: 28px;  /* Slightly larger for small mobile devices */
     }
 
     .bottom-text {
-        font-size: 18px;
-    }
-
-    .icon {
         font-size: 20px;
     }
 
+    .icon {
+        font-size: 22px;  /* Slightly larger for better tap targets */
+    }
+
     li {
-        width: 120px;
-        height: 35px;
+        width: 180px;  /* Adjusted for larger mobile boxes */
+        height: 50px;
     }
 
     .title {
-        font-size: 10px;
+        font-size: 14px;  /* Slightly larger font size for better readability */
     }
 }
+
 
