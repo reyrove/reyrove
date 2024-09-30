@@ -18,8 +18,8 @@ I am have studied Textile Engineering at University. but, I am working as a Prog
 ---
 [![](https://visitcount.itsvg.in/api?id=reyrove&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.coffeete.ir/Freyja) 
+  ## 💰 You can help me Here
+ ([https://buymeacoffee.com/https://www.coffeete.ir/Freyja](https://objkt.com/tokens/KT1FwYYCV376MSWuNoevwgnrBugeB6dTh8y6/0)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
