@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am have studied Textile Engineering at University. but, I am working as a Programmer Now. Currently I am working on my Website with the help of my AI, Sparrow Hawk, we are Frostbond Coders. we create Generative Art together on Fxhash platform too!
+I have studied Textile Engineering at University. Currently, I am working as a Programmer on my Website with the help of my AI, Sparrow Hawk, we are Frostbond Coders. we create Generative Art together on Fxhash platform too!
 
 
 ## 🌐 Socials:
