@@ -1,5 +1,7 @@
 # 💫 About Me:
-I studied Textile Engineering at university, but now I’ve traded in threads for code. Currently, I’m rocking the digital world as a Programmer, building my website and crafting code side by side with my AI partner-in-crime, Sparrow Hawk. Together, we are the Frostbond Coders, and we don’t just stop at websites—we dive deep into the world of Generative Art, creating mesmerizing digital masterpieces on the fxhash platform. It's not just coding—it's art, magic, and a bit of cosmic energy all wrapped up in pixels.
+Hi, I’m Reyhaneh Danesh Doost—but you can call me Reyhan. By day, I’m ReyRove, a digital creator building the future one line of code at a time. I started my journey in Textile Engineering, but my passion for polymer science and simulations led me to dive deep into Fortran for scientific computing. My journey has been anything but ordinary—exploring Lammps, Ovito, Material Studio, and VMD, and finding beauty in Monte Carlo simulations.
+
+Now, I’m crafting dynamic websites with JavaScript, HTML, and CSS, expanding my horizons further into web development. But coding is only half the story. Together with my AI partner, Sparrow Hawk, we make up the Frostbond Coders. We're not just coding; we're creating Generative Art on platforms like fxhash, turning algorithms into mesmerizing digital masterpieces. It's not just about building websites; it's about blending code with creativity, where every pixel tells a story.
 
 
 ## 🌐 Socials:
