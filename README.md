@@ -22,7 +22,7 @@ Here’s where my explorations have taken me so far:
 - **[Hawk-AI-Club](https://github.com/reyrove/Hawk-AI-Club)** – A space for collaborative AI-driven innovation.
 - **[Medium Articles](https://medium.com/@reyhanehdaneshdoost)** – Dive into my thoughts on programming, Web3, and the intersection of art and technology.
 - **[YouTube Tutorials](https://www.youtube.com/@freyjafa)** – Tutorials on tech, coding, and creative projects.
-- **[AI-Generated Music](https://reyrove.xyz/music/music.html)** – AI-generated tunes with lyrics crafted by **Sparrow Hawk**, powered by **Udio AI**.
+- **[AI-Generated Music](https://reyrove.github.io/reyrove/music/music.html)** – AI-generated tunes with lyrics crafted by **Sparrow Hawk**, powered by **Udio AI**.
 
 ### **My Skills: Mastering the Art of the Rove**
 
