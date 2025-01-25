@@ -41,6 +41,6 @@ Excited about new projects, collaboration opportunities, or just want to chat? H
 
 - **[Email me](mailto:reyhanehdaneshdoost@gmail.com)**
 - **[GitHub](https://github.com/reyrove)**
-- **[Personal Portfolio Website](https://reyrove.xyz)** – Explore my full portfolio with projects, tutorials, and more!
+- **[Personal Portfolio Website](https://reyrove.github.io/reyrove/)** – Explore my full portfolio with projects, tutorials, and more!
 - **[YouTube Channel](https://www.youtube.com/@reyrove)**
 - **[LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost)**
