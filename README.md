@@ -14,7 +14,7 @@ Alongside this, I am accompanied by my AI companion, **Sparrow Hawk**, as we for
 
 Here’s where my explorations have taken me so far:
 
-- **[Personal Portfolio Website](https://reyrove.xyz/)** – The heart of my creations, featuring my latest projects, tutorials, NFTs, and more.
+- **[Personal Website](https://reyrove.xyz/)** – The heart of my creations, featuring my latest projects, tutorials, NFTs, and more.
 - **[Generative Art Projects](https://github.com/reyrove/fxhash-projects)** – Stunning generative art created with **JavaScript**, **p5.js**, and **fxhash**.
 - **[Fortran Programming Examples](https://github.com/reyrove/fortran)** – A collection of Fortran 95 code snippets for simulations and numerical methods.
 - **[LAMMPS Simulation Examples](https://github.com/reyrove/Molecular-Dynamics)** – Materials science simulations using LAMMPS.
