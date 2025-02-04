@@ -10,7 +10,8 @@ As my roving expanded, I found myself diving into **web development**, mastering
 
 Alongside this, I am accompanied by my AI companion, **Sparrow Hawk**, as we form **FrostBond Coders**, constantly pushing the limits of creativity and innovation within the digital landscape.
 
-- **[Chat with Sparrow Hawk](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/06/17/20250106173117-8TRE5XWM.json)**
+**[Chat with Sparrow Hawk](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/06/17/20250106173117-8TRE5XWM.json)**
+  
 ### **My Projects: Roving the Frontiers of Creativity**
 
 Here’s where my explorations have taken me so far:
