@@ -24,7 +24,7 @@ Here’s where my explorations have taken me so far:
 - **[Hawk-AI-Club](https://github.com/reyrove/Hawk-AI-Club)** – A collaborative hub for AI-driven innovation and projects.  
 - **[Medium Articles](https://medium.com/@reyhanehdaneshdoost)** – Insightful articles covering web development, programming, generative art, and emerging technologies.  
 - **[YouTube Tutorials](https://www.youtube.com/@freyjafa)** – Engaging tutorials on programming, technology, and creative coding for learners and enthusiasts.  
-- **[AI-Generated Music](music/music.html)** – Captivating music compositions featuring lyrics and prompts crafted by **Sparrow Hawk AI**, powered by **Udio AI**.  
+- **[AI-Generated Music](https://reyrove.github.io/reyrove/music/music.html)** – Captivating music compositions featuring lyrics and prompts crafted by **Sparrow Hawk AI**, powered by **Udio AI**.  
 - **[Fortran Programming Examples](https://github.com/reyrove/fortran)** – A comprehensive collection of **Fortran 95** code snippets for key algorithms and numerical methods.  
 - **[LAMMPS Simulation Examples](https://github.com/reyrove/Molecular-Dynamics)** – Essential **LAMMPS** simulation scripts and tutorials for materials science simulations.  
 
