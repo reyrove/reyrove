@@ -14,15 +14,19 @@ Alongside this, I am accompanied by my AI companion, **Sparrow Hawk**, as we for
 
 Here’s where my explorations have taken me so far:
 
-- **[Personal Website](https://reyrove.xyz/)** – The heart of my creations, featuring my latest projects, tutorials, NFTs, and more.
-- **[Generative Art Projects](https://github.com/reyrove/fxhash-projects)** – Stunning generative art created with **JavaScript**, **p5.js**, and **fxhash**.
-- **[Fortran Programming Examples](https://github.com/reyrove/fortran)** – A collection of Fortran 95 code snippets for simulations and numerical methods.
-- **[LAMMPS Simulation Examples](https://github.com/reyrove/Molecular-Dynamics)** – Materials science simulations using LAMMPS.
-- **[Sparrow Hawk AI Projects](https://github.com/reyrove/Sparrow-Hawk)** – The future of creative AI, with art and articles driven by machine learning.
-- **[Hawk-AI-Club](https://github.com/reyrove/Hawk-AI-Club)** – A space for collaborative AI-driven innovation.
-- **[Medium Articles](https://medium.com/@reyhanehdaneshdoost)** – Dive into my thoughts on programming, Web3, and the intersection of art and technology.
-- **[YouTube Tutorials](https://www.youtube.com/@freyjafa)** – Tutorials on tech, coding, and creative projects.
-- **[AI-Generated Music](https://reyrove.github.io/reyrove/music/music.html)** – AI-generated tunes with lyrics crafted by **Sparrow Hawk**, powered by **Udio AI**.
+- **[Personal Website](https://reyrove.github.io/reyrove/)** – The heart of my creations, featuring my latest projects, tutorials, NFTs, and more.
+- **[Fxhash Gallery](https://www.fxhash.xyz/u/reyrove)** – A curated collection of unique generative art pieces created using **JavaScript**, **p5.js**, and AI on the **fxhash** platform.  
+- **[Fxhash Codes](https://github.com/reyrove/fxhash-projects)** – A repository of creative generative art codes powered by **JavaScript**, **p5.js**, and AI on the **fxhash** platform.  
+- **[Fxhash Articles](https://www.fxhash.xyz/u/reyrove/articles)** – Thoughtful explorations on generative art, AI, and technology, published on **fxhash**.  
+- **[Objkt Gallery](https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5)** – An inspiring collection of generative art projects crafted using **JavaScript**, **p5.js**, and AI on the **Objkt** platform.  
+- **[Objkt Codes](https://github.com/reyrove/Objkt-Projects)** – Generative art code repositories showcasing creative projects for the **Objkt** platform using **JavaScript**, **p5.js**, and AI.  
+- **[Sparrow Hawk AI Projects](https://github.com/reyrove/Sparrow-Hawk)** – Explore AI-generated artworks and insightful articles powered by innovative machine learning approaches.  
+- **[Hawk-AI-Club](https://github.com/reyrove/Hawk-AI-Club)** – A collaborative hub for AI-driven innovation and projects.  
+- **[Medium Articles](https://medium.com/@reyhanehdaneshdoost)** – Insightful articles covering web development, programming, generative art, and emerging technologies.  
+- **[YouTube Tutorials](https://www.youtube.com/@freyjafa)** – Engaging tutorials on programming, technology, and creative coding for learners and enthusiasts.  
+- **[AI-Generated Music](music/music.html)** – Captivating music compositions featuring lyrics and prompts crafted by **Sparrow Hawk AI**, powered by **Udio AI**.  
+- **[Fortran Programming Examples](https://github.com/reyrove/fortran)** – A comprehensive collection of **Fortran 95** code snippets for key algorithms and numerical methods.  
+- **[LAMMPS Simulation Examples](https://github.com/reyrove/Molecular-Dynamics)** – Essential **LAMMPS** simulation scripts and tutorials for materials science simulations.  
 
 ### **My Skills: Mastering the Art of the Rove**
 
@@ -41,6 +45,5 @@ Excited about new projects, collaboration opportunities, or just want to chat? H
 
 - **[Email me](mailto:reyhanehdaneshdoost@gmail.com)**
 - **[GitHub](https://github.com/reyrove)**
-- **[Personal Portfolio Website](https://reyrove.github.io/reyrove/)** – Explore my full portfolio with projects, tutorials, and more!
 - **[YouTube Channel](https://www.youtube.com/@reyrove)**
 - **[LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost)**
