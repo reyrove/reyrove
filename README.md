@@ -23,12 +23,13 @@ const reyrove = {
 
 ## 🎪 𝑴𝒂𝒊𝒏 𝑨𝒕𝒕𝒓𝒂𝒄𝒕𝒊𝒐𝒏𝒔
 
-| 𝑷𝒓𝒐𝒋𝒆𝒄𝒕                | 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏                               | 𝑳𝒊𝒗𝒆 𝑫𝒆𝒎𝒐                                                                 |
-| ---------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
-| 🦅 Sparrow Hawk CodeArt | Neon-drenched AI art generator with sass | <span style="text-decoration:none">[🎨 Create](https://sparrow-hawk-code-art-generator.vercel.app/)</span> |
-| 🖼️ Generative Art     | NFTs that don't look like bored apes      | <span style="text-decoration:none">[🖌️ View](https://www.fxhash.xyz/u/reyrove)</span>                     |
-| 🧶 Textile Tools       | For when you need to calculate yarn twist at 3AM | <span style="text-decoration:none">[🧮 Calculate](https://reyrove.github.io/textile/textile.html)</span>  |
-| 🎵 AI Music Generation | Making algorithms sing (better than shower concerts) | <span style="text-decoration:none">[🎧 Listen](https://www.udio.com/creators/reyrove)</span>               |
+| **Project**               | **Description**                                      | **Live Demo**                                                                 |
+|---------------------------|------------------------------------------------------|-------------------------------------------------------------------------------|
+| 🦅 Sparrow Hawk CodeArt   | Neon-drenched AI art generator with sass             | <a href="https://sparrow-hawk-code-art-generator.vercel.app/" style="text-decoration: none;">🎨 Create</a> |
+| 🖼️ Generative Art         | NFTs that don't look like bored apes                | <a href="https://www.fxhash.xyz/u/reyrove" style="text-decoration: none;">🖌️ View</a>       |
+| 🧶 Textile Tools           | For when you need to calculate yarn twist at 3AM     | <a href="https://reyrove.github.io/textile/textile.html" style="text-decoration: none;">🧮 Calculate</a> |
+| 🎵 AI Music Generation    | Making algorithms sing (better than shower concerts) | <a href="https://www.udio.com/creators/reyrove" style="text-decoration: none;">🎧 Listen</a>     |
+
 ---
 
 ## 🌀 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 𝑹𝒂𝒊𝒏𝒃𝒐𝒘
