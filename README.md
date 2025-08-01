@@ -23,12 +23,12 @@ const reyrove = {
 
 ## 🎪 𝑴𝒂𝒊𝒏 𝑨𝒕𝒕𝒓𝒂𝒄𝒕𝒊𝒐𝒏𝒔
 
-| **Project**               | **Description**                                      | **Live Demo**                                                                 |
-|---------------------------|------------------------------------------------------|-------------------------------------------------------------------------------|
-| 🦅 Sparrow Hawk CodeArt   | Neon-drenched AI art generator with sass             | <a href="https://sparrow-hawk-code-art-generator.vercel.app/" style="text-decoration: none;">🎨 Create</a> |
-| 🖼️ Generative Art         | NFTs that don't look like bored apes                | <a href="https://www.fxhash.xyz/u/reyrove" style="text-decoration: none;">🖌️ View</a>       |
-| 🧶 Textile Tools           | For when you need to calculate yarn twist at 3AM     | <a href="https://reyrove.github.io/textile/textile.html" style="text-decoration: none;">🧮 Calculate</a> |
-| 🎵 AI Music Generation    | Making algorithms sing (better than shower concerts) | <a href="https://www.udio.com/creators/reyrove" style="text-decoration: none;">🎧 Listen</a>     |
+| **Project**               | **Description**                                      | **Live Demo**                         |
+|---------------------------|------------------------------------------------------|----------------------------------------|
+| 🦅 Sparrow Hawk CodeArt   | Neon-drenched AI art generator with sass             | [🎨 Create](https://sparrow-hawk-code-art-generator.vercel.app/) |
+| 🖼️ Generative Art         | NFTs that don't look like bored apes                | [🖌️ View](https://www.fxhash.xyz/u/reyrove)       |
+| 🧶 Textile Tools           | For when you need to calculate yarn twist at 3AM     | [🧮 Calculate](https://reyrove.github.io/textile/textile.html) |
+| 🎵 AI Music Generation    | Making algorithms sing (better than shower concerts) | [🎧 Listen](https://www.udio.com/creators/reyrove)     |
 
 ---
 
