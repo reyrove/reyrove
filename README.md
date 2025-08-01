@@ -23,12 +23,12 @@ const reyrove = {
 
 ## 🎪 𝑴𝒂𝒊𝒏 𝑨𝒕𝒕𝒓𝒂𝒄𝒕𝒊𝒐𝒏𝒔
 
-| 𝑷𝒓𝒐𝒋𝒆𝒄𝒕         | 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏                               | 𝑳𝒊𝒗𝒆 𝑫𝒆𝒎𝒐                                                                                                                                    |
-| ---------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎵 AI Music Generation | Making algorithms sing (better than shower concerts) | [🎧 Listen](https://www.udio.com/creators/reyrove)                                                                                                   |
-| 🕷️ Sparrow Hawk AI    | Your passive-aggressive coding tutor                 | [💬 Chat](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/06/17/20250106173117-8TRE5XWM.json) |
-| 🧶 Textile Tools       | For when you need to calculate yarn twist at 3AM     | [🧮 Calculate](https://reyrove.github.io/textile/textile.html)                                                                                                                  |
-| 🖼️ Generative Art     | NFTs that don't look like bored apes                 | [🖌️ View](https://www.fxhash.xyz/u/reyrove)                                                                                                         |
+| 𝑷𝒓𝒐𝒋𝒆𝒄𝒕                | 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏                               | 𝑳𝒊𝒗𝒆 𝑫𝒆𝒎𝒐                                                                 |
+| ---------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
+| 🦅 Sparrow Hawk CodeArt | Neon-drenched AI art generator with sass | [🎨 Create](https://sparrow-hawk-code-art-generator.vercel.app/) |
+| 🖼️ Generative Art     | NFTs that don't look like bored apes      | [🖌️ View](https://www.fxhash.xyz/u/reyrove)                     |
+| 🧶 Textile Tools       | For when you need to calculate yarn twist at 3AM | [🧮 Calculate](https://reyrove.github.io/textile/textile.html)  |
+| 🎵 AI Music Generation | Making algorithms sing (better than shower concerts) | [🎧 Listen](https://www.udio.com/creators/reyrove)               |
 ---
 
 ## 🌀 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 𝑹𝒂𝒊𝒏𝒃𝒐𝒘
