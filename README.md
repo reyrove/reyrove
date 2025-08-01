@@ -25,10 +25,10 @@ const reyrove = {
 
 | 𝑷𝒓𝒐𝒋𝒆𝒄𝒕                | 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏                               | 𝑳𝒊𝒗𝒆 𝑫𝒆𝒎𝒐                                                                 |
 | ---------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
-| 🦅 Sparrow Hawk CodeArt | Neon-drenched AI art generator with sass | [🎨 Create](https://sparrow-hawk-code-art-generator.vercel.app/) |
-| 🖼️ Generative Art     | NFTs that don't look like bored apes      | [🖌️ View](https://www.fxhash.xyz/u/reyrove)                     |
-| 🧶 Textile Tools       | For when you need to calculate yarn twist at 3AM | [🧮 Calculate](https://reyrove.github.io/textile/textile.html)  |
-| 🎵 AI Music Generation | Making algorithms sing (better than shower concerts) | [🎧 Listen](https://www.udio.com/creators/reyrove)               |
+| 🦅 Sparrow Hawk CodeArt | Neon-drenched AI art generator with sass | <span style="text-decoration:none">[🎨 Create](https://sparrow-hawk-code-art-generator.vercel.app/)</span> |
+| 🖼️ Generative Art     | NFTs that don't look like bored apes      | <span style="text-decoration:none">[🖌️ View](https://www.fxhash.xyz/u/reyrove)</span>                     |
+| 🧶 Textile Tools       | For when you need to calculate yarn twist at 3AM | <span style="text-decoration:none">[🧮 Calculate](https://reyrove.github.io/textile/textile.html)</span>  |
+| 🎵 AI Music Generation | Making algorithms sing (better than shower concerts) | <span style="text-decoration:none">[🎧 Listen](https://www.udio.com/creators/reyrove)</span>               |
 ---
 
 ## 🌀 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 𝑹𝒂𝒊𝒏𝒃𝒐𝒘
