@@ -65,11 +65,10 @@ pie
   <a href="mailto:reyhanehdaneshdoost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
   <a href="https://x.com/reyrove"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> 
   <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="https://discord.com/users/reyrove"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
+  <a href="https://discord.com/users/reyrove"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/rey._.rove"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <div align="center">
-
-"Some people dream of success, I stay awake and code it" ✨
-
+  "Some people dream of success, I stay awake and code it" ✨
 </div>
