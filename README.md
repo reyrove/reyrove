@@ -21,11 +21,12 @@ const reyrove = {
 
 ---
 
-## 🎪 𝑴𝒂𝒊𝒏 𝑨𝒕𝒕𝒓𝒂𝒄𝒕𝒊𝒐𝒏𝒔
+## 🎪 Main Attractions
 
 | **Project**               | **Description**                                      | **Live Demo**                         |
 |---------------------------|------------------------------------------------------|----------------------------------------|
-| 🦅 Sparrow Hawk CodeArt   | Neon-drenched AI art generator with sass             | [Create](https://sparrow-hawk-code-art-generator.vercel.app/) |
+| 🎨 Sparrow Hawk CodeArt   | Neon-drenched AI art generator with sass             | [Create](https://sparrow-hawk-code-art-generator.vercel.app/) |
+| 🦅 Sparrow Hawk News      | Your daily tech news with neon flair                 | [Explore](https://sparrow-hawk-news-sidekick.vercel.app/) |
 | 🖼️ Generative Art         | NFTs that don't look like bored apes                | [View](https://www.fxhash.xyz/u/reyrove)       |
 | 🧶 Textile Tools           | For when you need to calculate yarn twist at 3AM     | [Calculate](https://reyrove.github.io/textile/textile.html) |
 | 🎵 AI Music Generation    | Making algorithms sing (better than shower concerts) | [Listen](https://www.udio.com/creators/reyrove)     |
