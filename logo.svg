@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 170" width="780" height="170">
+  <defs>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15803d"/>
+      <stop offset="40%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- REYROVE با گرادینت سبز - برای هر دو زمینه -->
+  <g transform="translate(20, 35)" fill="url(#greenGrad)">
+    
+    <!-- ===== R ===== -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="3" height="90" rx="1"/>
+      <rect x="8" y="0" width="3" height="90" rx="1"/>
+      <rect x="16" y="0" width="3" height="90" rx="1"/>
+      <rect x="0" y="0" width="3" height="42" rx="1"/>
+      <rect x="8" y="0" width="3" height="42" rx="1"/>
+      <rect x="16" y="0" width="3" height="42" rx="1"/>
+      <rect x="24" y="4" width="3" height="36" rx="1"/>
+      <rect x="32" y="10" width="3" height="28" rx="1"/>
+      <line x1="3" y1="52" x2="28" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="11" y1="52" x2="36" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="19" y1="52" x2="44" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- ===== E ===== -->
+    <g transform="translate(78, 0)">
+      <rect x="0" y="0" width="3" height="90" rx="1"/>
+      <rect x="7" y="0" width="3" height="90" rx="1"/>
+      <rect x="14" y="0" width="3" height="90" rx="1"/>
+      <rect x="0" y="0" width="48" height="3" rx="1"/>
+      <rect x="0" y="43" width="40" height="3" rx="1"/>
+      <rect x="0" y="87" width="48" height="3" rx="1"/>
+    </g>
+
+    <!-- ===== Y ===== -->
+    <g transform="translate(152, 0)">
+      <line x1="8" y1="0" x2="20" y2="50" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="16" y1="0" x2="28" y2="50" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="24" y1="0" x2="36" y2="50" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="32" y1="0" x2="20" y2="50" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="40" y1="0" x2="28" y2="50" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="48" y1="0" x2="36" y2="50" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <rect x="18" y="50" width="3" height="40" rx="1"/>
+      <rect x="25" y="50" width="3" height="40" rx="1"/>
+      <rect x="32" y="50" width="3" height="40" rx="1"/>
+    </g>
+
+    <!-- ===== R ===== -->
+    <g transform="translate(235, 0)">
+      <rect x="0" y="0" width="3" height="90" rx="1"/>
+      <rect x="8" y="0" width="3" height="90" rx="1"/>
+      <rect x="16" y="0" width="3" height="90" rx="1"/>
+      <rect x="0" y="0" width="3" height="42" rx="1"/>
+      <rect x="8" y="0" width="3" height="42" rx="1"/>
+      <rect x="16" y="0" width="3" height="42" rx="1"/>
+      <rect x="24" y="4" width="3" height="36" rx="1"/>
+      <rect x="32" y="10" width="3" height="28" rx="1"/>
+      <line x1="3" y1="52" x2="28" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="11" y1="52" x2="36" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="19" y1="52" x2="44" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- ===== O ===== -->
+    <g transform="translate(315, 0)">
+      <rect x="0" y="0" width="3" height="90" rx="1"/>
+      <rect x="7" y="0" width="3" height="90" rx="1"/>
+      <rect x="14" y="0" width="3" height="90" rx="1"/>
+      <rect x="48" y="0" width="3" height="90" rx="1"/>
+      <rect x="55" y="0" width="3" height="90" rx="1"/>
+      <rect x="62" y="0" width="3" height="90" rx="1"/>
+      <rect x="0" y="0" width="65" height="3" rx="1"/>
+      <rect x="0" y="87" width="65" height="3" rx="1"/>
+    </g>
+
+    <!-- ===== V ===== -->
+    <g transform="translate(410, 0)">
+      <line x1="6" y1="0" x2="16" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="13" y1="0" x2="23" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="20" y1="0" x2="30" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="30" y1="0" x2="20" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="37" y1="0" x2="27" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+      <line x1="44" y1="0" x2="34" y2="90" stroke="url(#greenGrad)" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- ===== E ===== -->
+    <g transform="translate(490, 0)">
+      <rect x="0" y="0" width="3" height="90" rx="1"/>
+      <rect x="7" y="0" width="3" height="90" rx="1"/>
+      <rect x="14" y="0" width="3" height="90" rx="1"/>
+      <rect x="0" y="0" width="48" height="3" rx="1"/>
+      <rect x="0" y="43" width="40" height="3" rx="1"/>
+      <rect x="0" y="87" width="48" height="3" rx="1"/>
+    </g>
+  </g>
+</svg>
