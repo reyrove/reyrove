@@ -1,6 +1,6 @@
  <p align="center">
   <a href="https://reyrove.github.io/">
-    <img src="https://reyrove.github.io/Reyrove-banner.png" alt="Reyrove — From Fibers to Functions" width="100%" />
+    <img src="Reyrove-banner.png" alt="Reyrove — From Fibers to Functions" width="100%" />
   </a>
 </p>
 
