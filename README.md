@@ -1,8 +1,7 @@
-```html
 <div align="center">
 
   <!-- ANIMATED WOVEN LOGO -->
-  <div style="padding: 40px 0;">
+  <div style="padding: 30px 0;">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" width="600" role="img" aria-labelledby="reyroveTitle">
       <title id="reyroveTitle">Reyrove — From Fibers to Functions</title>
       <defs>
@@ -217,4 +216,3 @@ This repository holds the source code for my personal portfolio. It is a fully s
   <sub>Reyrove® is a trademark of Reyhaneh Daneshdoost.</sub>
 
 </div>
-```
