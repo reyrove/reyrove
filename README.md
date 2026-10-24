@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
   <!-- ANIMATED WOVEN LOGO -->
@@ -216,5 +217,4 @@ This repository holds the source code for my personal portfolio. It is a fully s
   <sub>Reyrove® is a trademark of Reyhaneh Daneshdoost.</sub>
 
 </div>
-4. **Collapsible Code Block:** The project structure is hidden inside a `<details>` tag. This keeps the README looking incredibly clean while still offering the technical details to developers who want to see them.
-5. **Professional Badges:** The links are styled using `shields.io` "for-the-badge" styling to look like a premium open-source project.
+```
