@@ -1,218 +1,307 @@
- <p align="center">
-  <a href="https://reyrove.github.io/">
-    <img src="Reyrove-banner.png" alt="Reyrove — From Fibers to Functions" width="100%" />
-  </a>
-</p>
+# REYROVE
+### FROM FIBERS TO FUNCTIONS.
 
-<h1 align="center">REYROVE</h1>
+**I study how things are made. Then I teach machines to imagine what comes next.**
 
-<p align="center">
-  <strong>FROM FIBERS TO FUNCTIONS.</strong>
-  <br />
-  Textile Engineer · Creative Coder · Generative Designer
-  <br /><br />
-  <a href="https://reyrove.github.io/">Portfolio</a> ·
-  <a href="https://github.com/reyrove?tab=repositories">Projects</a> ·
-  <a href="https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5/">Collect Art</a> ·
-  <a href="mailto:reyhanehdaneshdoost@gmail.com">Contact</a>
-</p>
+Textile Engineer · Creative Coder · Generative Designer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-CREATIVE_TECHNOLOGY-B89A6D?style=flat-square" alt="Creative technology" />
-  <img src="https://img.shields.io/badge/MINDSET-ORDER_IN_CHAOS-D4B483?style=flat-square" alt="Order in chaos" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS_EXPERIMENTING-E9DFCF?style=flat-square" alt="Always experimenting" />
-</p>
+[ENTER THE STUDIO ↗](https://reyrove.github.io/) · [EXPLORE THE CODE](https://github.com/reyrove?tab=repositories) · [COLLECT MY ART](https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5) · [SAY HELLO](mailto:reyhanehdaneshdoost@gmail.com)
 
 ---
 
-### ✳ Welcome to my little corner of the internet.
+### 001 / A DIFFERENT KIND OF THREAD
 
-I'm **Reyhaneh Daneshdoost**, known as **Reyrove** — a textile engineer who wandered into code and decided that algorithms could be looms, pixels could be fibers, and mathematics could become art.
+I'm **Reyhaneh Daneshdoost**, known on the internet as **Reyrove**.
 
-My work lives somewhere between the physical and the digital: generative compositions, computational textile patterns, creative software, AI experiments, and scientific computing.
+My first language was material: fibers, structures, surfaces, the quiet mathematics hiding inside a piece of cloth.
 
-I care about how things work just as much as how they look. I like systems with structure, visuals with personality, and ideas that refuse to stay in one discipline.
+Then I found code.
 
-**I don't just write code. I use it to build visual languages.**
+Somewhere between textile engineering and computational art, I realized that an algorithm could behave like a loom, a seed could become a design decision, and a mathematical rule could grow into an entire visual universe.
+
+So I started building them.
+
+Today, my practice moves between **generative art, computational textiles, creative software, AI experiments, and scientific computing**. I make things that can be seen, things that can be used, and things that help explain how the world works.
+
+I'm interested in the point where engineering stops being merely functional and becomes part of the aesthetic itself.
+
+**Not code decorated with art. Not art pretending to be science. A language built from both.**
 
 ---
 
-### ⌘ The creative system
+### 002 / THE WAY I THINK
 
 ```text
-                  R E Y R O V E
-              ─────────────────────
-                 FROM FIBERS
-                 TO FUNCTIONS
-              ─────────────────────
+                  REYROVE
+             FROM FIBERS TO FUNCTIONS
 
-                MATERIAL THINKING
-                        │
-                        ▼
-                   MATHEMATICS
-                        │
-                        ▼
-                   CREATIVE CODE
-                        │
-              ┌─────────┼─────────┐
-              ▼         ▼         ▼
-          GENERATIVE    AI     SIMULATION
-             ART      SYSTEMS   & SCIENCE
-              │         │         │
-              └─────────┼─────────┘
-                        ▼
-                 NEW VISUAL WORLDS
+             OBSERVE THE MATERIAL
+                      |
+                      v
+              FIND THE STRUCTURE
+                      |
+                      v
+              DEFINE THE RULES
+                      |
+                      v
+                WRITE THE CODE
+                      |
+          +-----------+-----------+
+          |           |           |
+          v           v           v
+      GENERATIVE      AI      SIMULATION
+         ART       SYSTEMS    & SCIENCE
+          |           |           |
+          +-----------+-----------+
+                      |
+                      v
+               NEW POSSIBILITIES
+
+              ORDER IN CHAOS.
+              FORM FROM LOGIC.
+              IDEAS MADE VISIBLE.
 ```
 
-### ◈ What I'm weaving
+My process usually starts with a question, not a tool.
+
+What happens when a textile structure becomes an algorithm? Can a photograph become a new visual language? How much complexity can emerge from a handful of rules? What can scientific computation teach us about aesthetics?
+
+I build experiments to find out.
+
+---
+
+### 003 / FOUR WORLDS, ONE PRACTICE
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Generative Art</h3>
-      Algorithmic compositions, computational aesthetics, geometric structures, procedural visuals, and digital artworks built with code.
-      <br /><br />
-      <a href="https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5/">Explore my collected works ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Computational Textiles</h3>
-      Textile logic translated into algorithms: repetition, symmetry, interlacing, ornament, material-inspired structures, and generative surface design.
-      <br /><br />
-      <a href="https://reyrove.github.io/">Explore the portfolio ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / Creative Technology & AI</h3>
-      Experimental web applications, interactive visual tools, AI-powered creative systems, and interfaces where technology meets imagination.
-      <br /><br />
-      <a href="https://github.com/reyrove?tab=repositories">Explore the repositories ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / Scientific Computing</h3>
-      Programming and computational exploration inspired by materials science, molecular dynamics, simulation, mathematics, and technical visualization.
-      <br /><br />
-      <a href="https://github.com/reyrove?tab=repositories">Explore the code ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ◈ 01 — GENERATIVE ART
+
+Visual systems with their own logic, personality, and unexpected outcomes.
+
+Algorithmic compositions, geometric ornament, procedural imagery, code-based artworks, and digital editions.
+
+**The goal:** create work that feels authored, not assembled.
+
+[Explore my art on OBJKT ↗](https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5)
+
+</td>
+<td width="50%" valign="top">
+
+#### ◈ 02 — COMPUTATIONAL TEXTILES
+
+Where material thinking meets mathematical imagination.
+
+Generative patterns, symmetry, repetition, interlacing, Islamic geometric ornament, and computational surface design for fashion and textiles.
+
+**The goal:** make algorithms that think like materials.
+
+[Visit my portfolio ↗](https://reyrove.github.io/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ◈ 03 — CREATIVE TECHNOLOGY & AI
+
+Software is a medium, too.
+
+Interactive web experiments, creative tools, AI-powered image systems, visual interfaces, and digital experiences built to make ideas tangible.
+
+**The goal:** turn technical possibility into something people can experience.
+
+[Explore my repositories ↗](https://github.com/reyrove?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+#### ◈ 04 — SCIENTIFIC COMPUTING
+
+The analytical side of curiosity.
+
+Programming, mathematical modeling, molecular dynamics, materials science, simulation, and technical visualization.
+
+**The goal:** use computation to understand structures that aren't always visible.
+
+[Explore the code ↗](https://github.com/reyrove?tab=repositories)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### ⌘ Selected experiments
+### 004 / SELECTED EXPERIMENTS
 
-<p align="center">
-  <a href="https://reyrove.github.io/Matrix-Rain-Generative-Art/">
-    <img src="https://img.shields.io/badge/01-MATRIX_RAIN-151311?style=for-the-badge&labelColor=B89A6D" alt="Matrix Rain Generative Art" />
-  </a>
-  <a href="https://sparrow-hawk-code-art-generator.vercel.app/">
-    <img src="https://img.shields.io/badge/02-SPARROW_HAWK-151311?style=for-the-badge&labelColor=B89A6D" alt="Sparrow Hawk Code Art Generator" />
-  </a>
-  <a href="https://reyrove.github.io/javascript-notes-in-english/">
-    <img src="https://img.shields.io/badge/03-JAVASCRIPT_NOTES-151311?style=for-the-badge&labelColor=B89A6D" alt="JavaScript Notes in English" />
-  </a>
-  <a href="https://reyrove.github.io/HTML-Basics/">
-    <img src="https://img.shields.io/badge/04-HTML_BASICS-151311?style=for-the-badge&labelColor=B89A6D" alt="HTML Basics" />
-  </a>
-  <a href="https://reyrove.github.io/CSS-Fundamentals/">
-    <img src="https://img.shields.io/badge/05-CSS_FUNDAMENTALS-151311?style=for-the-badge&labelColor=B89A6D" alt="CSS Fundamentals" />
-  </a>
-</p>
+A few entry points into the studio. Each one explores a different relationship between code, structure, and visual expression.
 
-These projects represent different sides of my practice, from code-generated visual experiments to educational resources and interactive web experiences.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**More experiments live in the repositories:** [github.com/reyrove](https://github.com/reyrove?tab=repositories)
+**01 / MATRIX RAIN**
+
+A code-driven visual experiment inspired by digital language and generative aesthetics.
+
+[OPEN EXPERIMENT ↗](https://reyrove.github.io/Matrix-Rain-Generative-Art/)
+
+</td>
+<td width="50%" valign="top">
+
+**02 / SPARROW HAWK**
+
+A browser-based playground for creating algorithmic artwork.
+
+[OPEN THE GENERATOR ↗](https://sparrow-hawk-code-art-generator.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / JAVASCRIPT NOTES**
+
+A practical learning resource documenting my journey through programming, one concept at a time.
+
+[READ THE NOTES ↗](https://reyrove.github.io/javascript-notes-in-english/)
+
+</td>
+<td width="50%" valign="top">
+
+**04 / HTML FUNDAMENTALS**
+
+The building blocks of the web, explained through a hands-on learning project.
+
+[EXPLORE THE PROJECT ↗](https://reyrove.github.io/HTML-Basics/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**05 / CSS FUNDAMENTALS**
+
+Learning to control the visual language of the browser: layout, styling, and presentation.
+
+[EXPLORE THE PROJECT ↗](https://reyrove.github.io/CSS-Fundamentals/)
+
+</td>
+<td width="50%" valign="top">
+
+**06 / THE EXPANDING ARCHIVE**
+
+Generative systems, creative applications, experiments, and smaller ideas that deserve their own space.
+
+[ENTER GITHUB ↗](https://github.com/reyrove?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+*This is a selection, not the entire archive. Some experiments are polished projects; others are the beginning of something stranger.*
 
 ---
 
-### ⌘ The tools behind the thread
+### 005 / THE DIGITAL TOOLKIT
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-creative%20coding-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/p5.js-generative%20art-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" alt="p5.js" />
-  <img src="https://img.shields.io/badge/HTML-interfaces-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-visual%20design-663399?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Python-computational%20experiments-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Fortran-scientific%20computing-734F96?style=flat-square" alt="Fortran" />
-  <img src="https://img.shields.io/badge/LaTeX-technical%20writing-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+I choose tools for what they let me explore, not for how impressive they look in a stack.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-creative%20coding-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/p5.js-generative%20art-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" alt="p5.js" />
+<img src="https://img.shields.io/badge/HTML-interfaces-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-visual%20systems-663399?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-computational%20experiments-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Fortran-scientific%20computing-734F96?style=flat-square" alt="Fortran" />
+<img src="https://img.shields.io/badge/LaTeX-technical%20writing-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-My approach is interdisciplinary. I choose tools based on the problem, whether I'm generating a visual composition, building an interface, exploring a computational model, or documenting a scientific idea.
+My work also draws on mathematical thinking, textile engineering, scientific literature, and visual experimentation.
+
+I don't need every project to use every tool. Sometimes a few lines of JavaScript are enough to make something beautiful. Sometimes understanding the problem takes more work than writing the code.
 
 **The stack is a toolkit, not a personality.**
 
 ---
 
-### ⌘ Learn with me
+### 006 / KNOWLEDGE SHOULD TRAVEL
 
-I believe creative technology becomes more interesting when knowledge is shared.
+I create learning resources because understanding a system is even better when you can help someone else understand it, too.
 
-I create educational content and practical notes covering programming, scientific tools, and digital craft, with resources in both English and Farsi.
+My educational projects cover programming, web fundamentals, and scientific tools, with resources in English and Farsi.
 
-- **[JavaScript — English notes](https://reyrove.github.io/javascript-notes-in-english/)**
-- **[JavaScript — Farsi notes](https://reyrove.github.io/javascript-notes-in-farsi/)**
-- **[HTML fundamentals](https://reyrove.github.io/HTML-Basics/)**
-- **[CSS fundamentals](https://reyrove.github.io/CSS-Fundamentals/)**
-- **[Fortran tutorials](https://www.youtube.com/watch?v=cyThxBP_I1I&list=PLzPYCB_3Ed9f_8IZq943sm71hR5bJWLgq)**
-- **[LaTeX tutorials](https://www.youtube.com/watch?v=l7GZEXO_D_E&list=PLzPYCB_3Ed9d2lL-fIn6mnob0QtjaTGdp)**
-- **[All tutorials and resources](https://reyrove.github.io/)**
+- [JavaScript Notes — English](https://reyrove.github.io/javascript-notes-in-english/)
+- [JavaScript Notes — Farsi](https://reyrove.github.io/javascript-notes-in-farsi/)
+- [HTML Fundamentals](https://reyrove.github.io/HTML-Basics/)
+- [CSS Fundamentals](https://reyrove.github.io/CSS-Fundamentals/)
+- [Fortran Tutorials on YouTube](https://www.youtube.com/watch?v=cyThxBP_I1I&list=PLzPYCB_3Ed9f_8IZq943sm71hR5bJWLgq)
+- [LaTeX Tutorials on YouTube](https://www.youtube.com/watch?v=l7GZEXO_D_E&list=PLzPYCB_3Ed9d2lL-fIn6mnob0QtjaTGdp)
 
-Learn something. Break something. Build something better.
+My favorite kind of learning is hands-on: understand the principle, build a small experiment, break it, and discover why it worked in the first place.
+
+**Learn the rule. Change the rule. See what happens.**
 
 ---
 
-### ⌘ Beyond the screen
+### 007 / OUTSIDE THE REPOSITORY
 
-My work also extends beyond repositories and browser windows.
+Not everything I make belongs in a code editor.
 
 - **Print:** Featured in [Visual Art Journal — Issue 31](https://visualartjournal.com/2025/07/09/issue-31-july-2025/).
 - **Writing:** Essays and experiments on [Medium](https://medium.com/@reyhanehdaneshdoost).
-- **Digital art:** Selected works available on [OBJKT](https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5/).
-- **Portfolio:** The complete creative practice at [reyrove.github.io](https://reyrove.github.io/).
+- **Digital art:** Selected works and collectible editions on [OBJKT](https://objkt.com/users/tz1RXsijmPeeF1kPyrhd8Hkm2RskJAeU3si5).
+- **Creative practice:** Projects, experiments, and visual explorations at [reyrove.github.io](https://reyrove.github.io/).
+
+These are different ways of exploring the same question: what happens when structure, technology, and imagination meet?
 
 ---
 
-### ⌘ The philosophy
+### 008 / THE PHILOSOPHY
 
 > The same curiosity that made me study how threads twist is now making me study how systems think.
 
-I believe the most interesting ideas often emerge at the intersections: engineering and aesthetics, mathematics and intuition, physical materials and digital processes.
+I believe structure can be expressive. Mathematics can be intuitive. Engineering can be beautiful without sacrificing precision.
 
-My goal is not to make technology look artistic as an afterthought. It is to explore what becomes possible when **engineering itself becomes part of the creative language**.
+I'm drawn to systems that leave room for discovery: rules that generate variation, constraints that encourage invention, and processes where the result isn't entirely predictable but still makes sense.
+
+That is what I mean by **order in chaos**.
+
+Not eliminating complexity. Learning how to work with it.
 
 ---
 
-### ⌘ Let's make something strange.
+### 009 / OPEN TO THE UNEXPECTED
 
-I'm open to thoughtful collaborations involving:
+I'm interested in thoughtful collaborations across:
 
 - Generative art and creative coding
 - Computational textiles and generative surface design
+- Fashion, material exploration, and digital fabrication
 - Creative software, interactive experiences, and AI systems
 - Scientific visualization and computational experiments
 - Educational projects and interdisciplinary research
 
-Have an interesting problem, a strange idea, or a project that doesn't fit neatly into one box? That's a good place to start.
+I'm especially interested in projects where two fields meet and produce something neither could have made alone.
 
-<p align="center">
-  <a href="mailto:reyhanehdaneshdoost@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-B89A6D?style=for-the-badge&logo=gmail&logoColor=151311" alt="Email Reyrove" />
-  </a>
-  <a href="https://reyrove.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_STUDIO-151311?style=for-the-badge&logo=googlechrome&logoColor=D4B483" alt="Visit portfolio" />
-  </a>
+Have an unusual problem, a visual system to develop, or an idea that doesn't fit neatly into one discipline?
+
+**Good. Those are usually the interesting ones.**
+
+<p>
+<a href="mailto:reyhanehdaneshdoost@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20make%20something-B89A6D?style=for-the-badge&logo=gmail&logoColor=151311" alt="Email Reyrove" /></a>
+<a href="https://reyrove.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Enter%20the%20studio-151311?style=for-the-badge&logo=googlechrome&logoColor=D4B483" alt="Visit portfolio" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/reyrove">GitHub</a> ·
-  <a href="https://x.com/reyrove">X</a> ·
-  <a href="https://www.instagram.com/rey._.rove/">Instagram</a> ·
-  <a href="https://www.youtube.com/c/freyjafa">YouTube</a> ·
-  <a href="https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/">LinkedIn</a>
-</p>
+---
+
+### FIND ME IN OTHER CORNERS OF THE INTERNET
+
+[GitHub](https://github.com/reyrove) · [X](https://x.com/reyrove) · [Instagram](https://www.instagram.com/rey._.rove/) · [YouTube](https://www.youtube.com/c/freyjafa) · [LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/)
 
 <p align="center">
-  <sub>REYROVE · FROM FIBERS TO FUNCTIONS · © 2026 REYHANEH DANESHDOOST</sub>
-  <br />
-  <sub>Built with curiosity. Woven with code. Always a work in progress.</sub>
+<sub>REYROVE · FROM FIBERS TO FUNCTIONS · © 2026 REYHANEH DANESHDOOST</sub>
+<br />
+<sub>Built with curiosity. Woven with code. Never quite finished.</sub>
 </p>
